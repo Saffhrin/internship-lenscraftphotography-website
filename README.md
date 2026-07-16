@@ -1,6 +1,6 @@
 ## Internship Project
 
-A short description of what this project does — e.g. "A responsive landing page built during my internship at Gurumantra4U, showcasing ."
+A responsive landing page built during my internship at Gurumantra4U, showcasing modern UI design principles with clean layouts and interactive elements.
 
 ## 🚀 Live Demo
 
