@@ -5,7 +5,7 @@ A short description of what this project does — e.g. "A responsive landing pag
 ## 🚀 Live Demo
 
 
-`https://Saffhrin.github.io/internship-lenscraftphotography-website/`
+'https://saffhrin.github.io/internship-lenscraftphotography-website/'
 
 ## 🛠️ Built With
 
