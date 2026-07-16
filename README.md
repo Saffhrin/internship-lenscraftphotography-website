@@ -35,11 +35,6 @@ project-name/
 - Semantic HTML for better accessibility and SEO.
 - Form validation with real-time feedback.
 
-## 📸 Screenshots
-
-Add a screenshot of your project here once it's on GitHub:
-`![Project Screenshot](images/screenshot.png)`
-
 ## 🏃 How to Run
 
 1. Clone the repository
