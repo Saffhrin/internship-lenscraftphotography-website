@@ -152,7 +152,6 @@ X P Saffhrin
 
 🔗 📜 License
 
-This project was developed during my web development internship at Gurumantra4U for learning and portfolio purposes.
 ---
 
-This project was developed during my web development internship for learning and portfolio purposes.
+This project was developed during my web development internship at Gurumantra4U for learning and portfolio purposes.
