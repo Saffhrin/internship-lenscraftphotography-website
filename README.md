@@ -150,8 +150,7 @@ X P Saffhrin
 
 ---
 
-🔗 📜 License
-
+ 🔗 📜 License
 ---
 
 This project was developed during my web development internship at Gurumantra4U for learning and portfolio purposes.
